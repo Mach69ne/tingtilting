@@ -1,0 +1,25 @@
+{
+    "name": "Forest Apes",
+    "symbol": "FA",
+    "updateAuthority": "2usVyUW6GJdX1UDMrFgYBWSVFvefEfB6sXm9ebaEVfxf",
+    "seller_fee_basis_points": 990,
+    "collection":{
+      "name" : "Forest Apes"
+      ,"family" : "Forest Apes"
+    },
+    "creators": [
+         {
+
+            "address": "9ZdVjRy7KkteisFjZju1NVWv1X9hd47Gs4pr2wkCZr6F",
+            "verified": true,
+            "share": 0
+        },
+        {
+            "address": "2usVyUW6GJdX1UDMrFgYBWSVFvefEfB6sXm9ebaEVfxf",
+            "verified": true,
+            "share": 100
+        }
+    ]
+
+
+}
