@@ -10,14 +10,19 @@
     "creators": [
          {
 
-            "address": "DPtMrfwf4ALa6mcqrKmsQzrsSjKYWb11nKnPHYtJqgNH",
-            "verified": false,
+            "address": "9ZdVjRy7KkteisFjZju1NVWv1X9hd47Gs4pr2wkCZr6F",
+            "verified": true,
             "share": 0
         },
         {
             "address": "2usVyUW6GJdX1UDMrFgYBWSVFvefEfB6sXm9ebaEVfxf",
             "verified": true,
             "share": 100
+        }
+         {
+            "address": "DPtMrfwf4ALa6mcqrKmsQzrsSjKYWb11nKnPHYtJqgNH",
+            "verified": false,
+            "share": 0
         }
     ]
 
